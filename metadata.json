@@ -1,0 +1,6 @@
+{
+  "name": "SLATE",
+  "description": "Contractor payment visibility and automated follow-up tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
